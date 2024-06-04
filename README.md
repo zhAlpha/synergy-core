@@ -1,4 +1,5 @@
 # Synergy Core
+此版本为1.14.6的学习版本
 
 This is the open source core component of Synergy, a keyboard and mouse sharing tool.
 
